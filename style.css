@@ -1,0 +1,75 @@
+
+.list-style{
+    font-size: 28px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color:green;
+    
+}
+
+h1{
+    font-family:system-ui;
+    color:red;
+    outline: 3px color orange;
+}
+
+.custard-img,.cutlet-img,.icecream-img{
+    height: auto;
+    width: 300px;
+}
+.ing{
+    font-size: 23px;
+}
+.procedure,.intro{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+    background-color: aquamarine;
+    border: 5px solid blueviolet;
+    width: 240px;
+    height:auto;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-style:ridge;
+    border-radius: 15px;
+
+}
+.box-one,.box-two,.box-three{
+    background-color: aquamarine;
+    border: 5px solid blue;
+    width: 150px;
+    height:auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-style:outset;
+    border-radius: 15px;
+}
+.box-two{
+    width:100px;
+}
+.box-one{
+    width:120px;
+}
+
+.bor-custard,.bor-cutlet,.bor-icy{
+    outline:2px solid red;
+    width: 180px;
+    background-color: yellow;
+}
+.bor-cutlet,.bor-icy{
+    width: 250px;
+    padding:auto;
+}
+.subtitle{
+    border:5px solid lime;
+    background-color:burlywood;
+    width:240px;
+    padding-left: 20px;
+    border-radius: 15px;
+}
